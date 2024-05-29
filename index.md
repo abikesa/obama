@@ -93,6 +93,19 @@ Here is the generated image:
 - [Westmalle Tripel](https://medium.com/@ignacio.de.gregorio.noblejas/apple-might-have-a-real-ai-problem-920d55a2732f), $9.5$ %
 - [St. Bernardus](https://www.wsj.com/tech/ai/apple-investors-grow-impatient-on-artificial-intelligence-3f934e1e) `Abt 12`, $10$ %
 
+![](https://abikesa.github.io/johnadams/diminishing_returns_wsj.jpg)
 ![](https://abikesa.github.io/belgian/craft.png)
+
+# Quality vs. Quantity
+
+**DIO.** Enough of both your odes.
+
+**AESCH.** Enough for me. Now would I bring the fellow to the scales. That,       
+that alone, shall test our poetry now, And prove whose words are      
+  weightiest, his or mine.      
+
+**DIO.** Then both come hither, since I needs must [weigh](https://www.gutenberg.org/cache/epub/7998/pg7998-images.html)     
+The art poetic like a [pound](https://www.jstor.org/stable/696535) of cheese.     
+
 
 
